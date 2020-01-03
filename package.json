@@ -16,8 +16,8 @@
     "typescript": "^3.7.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "npx styleguidist server",
+    "build": "npx styleguidist build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
